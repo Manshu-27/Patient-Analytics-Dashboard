@@ -1,0 +1,1000 @@
+age,gender,primary_diagnosis,num_procedures,days_in_hospital,comorbidity_score,discharge_to,readmitted,patient_ID,Department,Admission
+69,Male,Heart Disease,1,2,1,Home Health Care,0,1,Orthopedic,Routine
+32,Female,COPD,2,13,2,Rehabilitation Facility,0,2,cardiology,Emergency
+89,Male,Diabetes,1,7,1,Home,0,3,cardiology,Routine
+78,Male,COPD,9,2,2,Skilled Nursing Facility,0,4,Neurology,Routine
+38,Male,Diabetes,6,4,4,Rehabilitation Facility,0,5,General,Routine
+41,Male,Heart Disease,1,1,3,Skilled Nursing Facility,0,6,cardiology,Routine
+20,Female,Diabetes,1,5,3,Home Health Care,0,7,Orthopedic,Emergency
+39,Female,Kidney Disease,1,1,2,Home,0,8,General,Emergency
+70,Male,COPD,3,4,3,Home Health Care,0,9,Orthopedic,Routine
+19,Male,Kidney Disease,0,13,0,Rehabilitation Facility,0,10,Neurology,Emergency
+47,Female,Heart Disease,1,9,4,Home,0,11,cardiology,Routine
+55,Female,COPD,2,13,4,Rehabilitation Facility,0,12,General,Routine
+19,Female,Heart Disease,6,12,3,Home,0,13,Orthopedic,Emergency
+81,Male,Kidney Disease,9,8,2,Skilled Nursing Facility,0,14,cardiology,Routine
+77,Female,Heart Disease,0,6,0,Rehabilitation Facility,0,15,cardiology,Routine
+38,Male,COPD,5,8,2,Home Health Care,0,16,Orthopedic,Routine
+50,Male,COPD,2,5,3,Home Health Care,0,17,cardiology,Emergency
+75,Female,Heart Disease,2,7,4,Skilled Nursing Facility,0,18,Neurology,Emergency
+39,Male,COPD,3,8,4,Skilled Nursing Facility,0,19,Orthopedic,Emergency
+66,Female,COPD,3,7,2,Home Health Care,1,20,General,Emergency
+76,Male,Heart Disease,6,14,1,Skilled Nursing Facility,1,21,cardiology,Routine
+59,Female,Kidney Disease,2,4,2,Home,0,22,Neurology,Routine
+77,Male,COPD,7,5,1,Home Health Care,1,23,Orthopedic,Routine
+32,Male,COPD,7,13,2,Rehabilitation Facility,0,24,Orthopedic,Emergency
+79,Female,COPD,6,14,1,Home Health Care,0,25,cardiology,Emergency
+79,Female,COPD,1,10,1,Skilled Nursing Facility,0,26,Neurology,Emergency
+64,Female,Heart Disease,4,6,1,Home,0,27,Neurology,Emergency
+79,Female,Kidney Disease,5,14,1,Rehabilitation Facility,0,28,Neurology,Emergency
+68,Male,Kidney Disease,9,14,0,Home Health Care,0,29,Orthopedic,Emergency
+72,Female,Diabetes,3,12,1,Home Health Care,0,30,Orthopedic,Emergency
+81,Female,COPD,9,11,1,Rehabilitation Facility,0,31,Neurology,Routine
+20,Male,COPD,4,6,4,Home,0,32,Neurology,Emergency
+68,Female,Diabetes,8,13,0,Skilled Nursing Facility,0,33,General,Routine
+24,Female,Kidney Disease,6,9,1,Skilled Nursing Facility,0,34,cardiology,Routine
+38,Male,Hypertension,1,10,3,Skilled Nursing Facility,0,35,cardiology,Emergency
+56,Female,Hypertension,0,14,0,Skilled Nursing Facility,0,36,cardiology,Emergency
+35,Female,Kidney Disease,1,14,4,Rehabilitation Facility,0,37,General,Emergency
+21,Female,COPD,2,2,2,Home,0,38,General,Routine
+77,Female,Hypertension,1,6,4,Home,0,39,cardiology,Routine
+31,Female,Heart Disease,2,13,4,Home Health Care,0,40,Orthopedic,Emergency
+26,Female,Heart Disease,9,3,0,Home Health Care,0,41,Orthopedic,Emergency
+70,Male,Diabetes,8,14,0,Home,0,42,Neurology,Routine
+19,Female,Kidney Disease,3,2,3,Home Health Care,0,43,cardiology,Emergency
+77,Male,Kidney Disease,8,6,3,Home,0,44,Neurology,Emergency
+88,Male,Hypertension,2,4,0,Rehabilitation Facility,0,45,Neurology,Routine
+61,Male,COPD,0,5,0,Rehabilitation Facility,1,46,Neurology,Routine
+25,Male,Kidney Disease,4,5,0,Skilled Nursing Facility,0,47,General,Routine
+64,Female,Hypertension,9,3,2,Home,0,48,Neurology,Routine
+52,Female,Hypertension,9,12,4,Rehabilitation Facility,0,49,cardiology,Routine
+53,Female,Kidney Disease,1,4,3,Home,0,50,Neurology,Routine
+67,Male,Hypertension,3,3,3,Home Health Care,0,51,Neurology,Routine
+21,Female,Diabetes,1,7,1,Home,0,52,Neurology,Routine
+19,Female,Diabetes,1,1,2,Skilled Nursing Facility,0,53,Neurology,Emergency
+23,Female,Kidney Disease,2,6,0,Skilled Nursing Facility,0,54,cardiology,Routine
+71,Male,COPD,4,4,0,Rehabilitation Facility,0,55,General,Routine
+21,Male,Diabetes,3,1,2,Home Health Care,0,56,General,Routine
+71,Female,Diabetes,1,1,3,Home Health Care,0,57,General,Routine
+80,Male,Kidney Disease,9,5,0,Home,0,58,cardiology,Emergency
+35,Male,Heart Disease,1,14,1,Home Health Care,0,59,General,Emergency
+61,Female,Hypertension,5,5,3,Skilled Nursing Facility,0,60,Orthopedic,Routine
+51,Male,Diabetes,6,10,4,Rehabilitation Facility,0,61,General,Routine
+79,Male,Heart Disease,9,7,2,Rehabilitation Facility,0,62,Orthopedic,Emergency
+31,Female,COPD,5,13,3,Rehabilitation Facility,0,63,cardiology,Emergency
+65,Male,Heart Disease,6,12,4,Home Health Care,0,64,Orthopedic,Emergency
+32,Male,Kidney Disease,0,4,1,Home Health Care,0,65,Neurology,Routine
+89,Male,COPD,5,14,2,Skilled Nursing Facility,0,66,General,Routine
+79,Male,COPD,2,9,0,Home,1,67,Neurology,Emergency
+57,Male,Heart Disease,0,4,0,Home,0,68,Orthopedic,Emergency
+70,Male,Kidney Disease,7,7,4,Rehabilitation Facility,0,69,Neurology,Emergency
+41,Male,Diabetes,3,5,3,Rehabilitation Facility,0,70,Neurology,Routine
+43,Male,Heart Disease,9,5,1,Home Health Care,0,71,Orthopedic,Routine
+77,Female,Diabetes,7,6,4,Rehabilitation Facility,0,72,Orthopedic,Emergency
+58,Female,Heart Disease,9,8,1,Skilled Nursing Facility,0,73,Neurology,Emergency
+46,Female,Diabetes,3,5,1,Skilled Nursing Facility,0,74,General,Emergency
+32,Female,Heart Disease,3,3,1,Rehabilitation Facility,0,75,Orthopedic,Routine
+62,Male,COPD,9,6,2,Rehabilitation Facility,1,76,Neurology,Emergency
+82,Female,Hypertension,3,14,4,Rehabilitation Facility,0,77,cardiology,Emergency
+88,Female,COPD,5,12,2,Rehabilitation Facility,0,78,Neurology,Emergency
+26,Male,Diabetes,8,14,3,Rehabilitation Facility,0,79,Orthopedic,Routine
+18,Male,Kidney Disease,4,2,3,Skilled Nursing Facility,0,80,cardiology,Emergency
+25,Male,COPD,9,12,0,Home,1,81,General,Routine
+80,Male,Hypertension,7,12,0,Skilled Nursing Facility,0,82,General,Emergency
+28,Male,Diabetes,7,8,0,Skilled Nursing Facility,1,83,Orthopedic,Routine
+25,Female,COPD,3,8,3,Rehabilitation Facility,0,84,General,Routine
+52,Male,Heart Disease,9,3,1,Home,0,85,General,Emergency
+52,Female,Kidney Disease,8,12,1,Rehabilitation Facility,0,86,cardiology,Routine
+50,Female,Diabetes,8,8,4,Skilled Nursing Facility,0,87,cardiology,Emergency
+22,Male,COPD,4,9,3,Home,0,88,General,Emergency
+58,Female,Diabetes,5,5,0,Home Health Care,0,89,Neurology,Routine
+45,Female,Heart Disease,4,5,3,Rehabilitation Facility,0,90,cardiology,Routine
+24,Male,Hypertension,2,6,1,Home Health Care,1,91,cardiology,Emergency
+89,Female,COPD,7,7,1,Home Health Care,0,92,Neurology,Emergency
+29,Female,Diabetes,8,3,2,Home Health Care,0,93,Neurology,Routine
+51,Female,Diabetes,3,5,2,Home Health Care,0,94,General,Routine
+50,Male,Diabetes,8,1,4,Home,1,95,Neurology,Emergency
+65,Male,Hypertension,8,11,3,Rehabilitation Facility,0,96,Orthopedic,Routine
+40,Male,Diabetes,6,10,2,Home,0,97,Neurology,Routine
+79,Female,Kidney Disease,7,5,2,Rehabilitation Facility,0,98,General,Emergency
+54,Male,Kidney Disease,2,4,3,Rehabilitation Facility,0,99,Neurology,Emergency
+61,Female,Diabetes,4,1,1,Rehabilitation Facility,0,100,Orthopedic,Emergency
+52,Male,Kidney Disease,2,7,4,Home,0,101,Neurology,Emergency
+82,Female,COPD,6,1,4,Skilled Nursing Facility,1,102,Neurology,Emergency
+64,Male,Kidney Disease,5,13,4,Home Health Care,0,103,Neurology,Routine
+20,Male,Diabetes,2,8,2,Skilled Nursing Facility,0,104,Orthopedic,Routine
+18,Female,Heart Disease,8,14,1,Skilled Nursing Facility,0,105,Neurology,Emergency
+22,Male,COPD,0,10,4,Skilled Nursing Facility,0,106,Orthopedic,Emergency
+31,Female,Hypertension,9,12,3,Home Health Care,0,107,General,Routine
+44,Male,Diabetes,2,2,4,Skilled Nursing Facility,1,108,Neurology,Routine
+26,Male,Hypertension,9,10,0,Home Health Care,1,109,General,Emergency
+32,Female,Heart Disease,6,13,1,Home Health Care,1,110,Orthopedic,Routine
+59,Female,Hypertension,2,12,0,Home Health Care,1,111,cardiology,Emergency
+68,Female,Diabetes,2,5,1,Rehabilitation Facility,0,112,cardiology,Routine
+80,Male,Diabetes,1,13,3,Rehabilitation Facility,0,113,Neurology,Emergency
+69,Female,Heart Disease,8,6,2,Skilled Nursing Facility,0,114,Orthopedic,Emergency
+21,Male,Diabetes,3,9,2,Rehabilitation Facility,0,115,Neurology,Emergency
+40,Female,Heart Disease,9,14,1,Home Health Care,0,116,cardiology,Routine
+32,Female,Heart Disease,5,7,4,Rehabilitation Facility,0,117,Orthopedic,Emergency
+60,Female,Diabetes,1,6,0,Home Health Care,0,118,cardiology,Emergency
+46,Female,Kidney Disease,8,5,3,Home,0,119,Neurology,Routine
+53,Female,Heart Disease,6,6,4,Rehabilitation Facility,1,120,Orthopedic,Emergency
+30,Female,Diabetes,9,14,2,Skilled Nursing Facility,1,121,cardiology,Routine
+49,Male,Kidney Disease,4,11,4,Home,0,122,General,Routine
+88,Female,Heart Disease,6,4,0,Home,0,123,cardiology,Emergency
+76,Male,Kidney Disease,3,1,2,Rehabilitation Facility,1,124,General,Routine
+45,Female,COPD,9,12,1,Rehabilitation Facility,1,125,Neurology,Routine
+83,Female,COPD,6,9,3,Skilled Nursing Facility,1,126,cardiology,Routine
+59,Female,Kidney Disease,1,11,3,Home,1,127,Orthopedic,Emergency
+62,Male,Heart Disease,6,5,2,Home Health Care,1,128,Orthopedic,Emergency
+79,Male,Diabetes,3,8,1,Rehabilitation Facility,0,129,Orthopedic,Routine
+74,Female,Hypertension,3,7,0,Home,0,130,General,Emergency
+23,Male,Diabetes,0,8,3,Home,0,131,cardiology,Routine
+45,Female,Hypertension,2,1,2,Home Health Care,0,132,Orthopedic,Emergency
+45,Female,Hypertension,4,9,3,Home,1,133,Orthopedic,Emergency
+61,Male,Heart Disease,4,1,1,Rehabilitation Facility,0,134,General,Routine
+47,Male,Kidney Disease,1,3,0,Home Health Care,0,135,General,Routine
+79,Male,Diabetes,3,8,1,Rehabilitation Facility,0,136,Orthopedic,Routine
+79,Male,Kidney Disease,0,12,4,Skilled Nursing Facility,0,137,cardiology,Routine
+18,Female,COPD,8,11,1,Home,0,138,cardiology,Emergency
+44,Male,Heart Disease,0,1,1,Rehabilitation Facility,1,139,Orthopedic,Routine
+79,Male,Heart Disease,5,14,3,Rehabilitation Facility,0,140,Neurology,Routine
+20,Female,COPD,6,1,1,Skilled Nursing Facility,1,141,Orthopedic,Emergency
+87,Male,Diabetes,2,6,2,Home,1,142,cardiology,Emergency
+89,Male,COPD,0,5,3,Rehabilitation Facility,0,143,cardiology,Emergency
+44,Male,Diabetes,6,11,3,Home Health Care,0,144,General,Emergency
+26,Male,Hypertension,2,6,4,Rehabilitation Facility,0,145,Neurology,Emergency
+79,Female,Heart Disease,9,3,2,Rehabilitation Facility,0,146,cardiology,Emergency
+54,Female,Diabetes,5,10,1,Rehabilitation Facility,0,147,Neurology,Routine
+68,Male,Kidney Disease,5,12,4,Rehabilitation Facility,1,148,cardiology,Routine
+61,Male,Kidney Disease,3,10,2,Home,0,149,cardiology,Routine
+41,Female,Heart Disease,5,6,4,Rehabilitation Facility,0,150,Neurology,Routine
+76,Male,COPD,9,2,0,Skilled Nursing Facility,0,151,General,Emergency
+49,Male,COPD,3,8,1,Rehabilitation Facility,0,152,Orthopedic,Routine
+69,Male,Diabetes,7,12,4,Home Health Care,0,153,Orthopedic,Emergency
+79,Male,COPD,8,6,0,Home Health Care,0,154,cardiology,Emergency
+75,Male,Heart Disease,1,13,1,Rehabilitation Facility,0,155,Neurology,Routine
+69,Male,Diabetes,6,13,4,Rehabilitation Facility,0,156,Orthopedic,Routine
+29,Male,Hypertension,8,4,4,Skilled Nursing Facility,0,157,General,Emergency
+56,Male,COPD,8,4,4,Skilled Nursing Facility,0,158,cardiology,Routine
+19,Male,COPD,4,14,4,Home,0,159,General,Routine
+20,Female,Diabetes,0,11,3,Home,0,160,Orthopedic,Emergency
+73,Female,Kidney Disease,5,7,4,Home Health Care,0,161,General,Routine
+76,Female,COPD,7,14,3,Rehabilitation Facility,0,162,Orthopedic,Routine
+19,Male,Heart Disease,0,3,3,Rehabilitation Facility,0,163,cardiology,Emergency
+19,Male,COPD,1,11,0,Skilled Nursing Facility,0,164,Orthopedic,Routine
+71,Female,Hypertension,0,3,1,Skilled Nursing Facility,0,165,Neurology,Emergency
+18,Male,COPD,4,6,3,Home,1,166,Neurology,Emergency
+36,Female,Kidney Disease,1,9,2,Home,0,167,Neurology,Routine
+19,Male,COPD,9,1,3,Home Health Care,0,168,General,Emergency
+70,Female,Diabetes,9,5,2,Skilled Nursing Facility,0,169,Orthopedic,Emergency
+61,Female,COPD,3,1,0,Rehabilitation Facility,0,170,Neurology,Emergency
+49,Female,Kidney Disease,0,1,2,Skilled Nursing Facility,0,171,Orthopedic,Emergency
+87,Male,Diabetes,6,3,0,Skilled Nursing Facility,0,172,General,Routine
+49,Female,Heart Disease,7,3,0,Skilled Nursing Facility,0,173,General,Emergency
+85,Male,Diabetes,4,4,0,Home,0,174,Neurology,Routine
+72,Male,Hypertension,1,3,2,Rehabilitation Facility,0,175,Orthopedic,Routine
+73,Male,Diabetes,7,6,2,Rehabilitation Facility,0,176,cardiology,Emergency
+34,Male,Heart Disease,0,12,0,Home,0,177,cardiology,Emergency
+55,Male,COPD,6,4,0,Home,0,178,cardiology,Emergency
+41,Male,Diabetes,0,8,1,Rehabilitation Facility,0,179,Orthopedic,Emergency
+86,Male,Diabetes,5,1,0,Home Health Care,0,180,cardiology,Emergency
+87,Female,Diabetes,5,8,4,Skilled Nursing Facility,0,181,Orthopedic,Routine
+28,Female,Diabetes,4,11,1,Rehabilitation Facility,0,182,Neurology,Routine
+33,Female,Heart Disease,1,1,1,Home,0,183,Orthopedic,Routine
+76,Male,Kidney Disease,1,11,1,Rehabilitation Facility,0,184,Orthopedic,Routine
+87,Male,Kidney Disease,8,1,4,Skilled Nursing Facility,0,185,General,Emergency
+20,Male,Diabetes,4,7,1,Rehabilitation Facility,0,186,Neurology,Emergency
+37,Male,Heart Disease,4,1,1,Home,0,187,cardiology,Emergency
+76,Female,Heart Disease,6,9,2,Home Health Care,0,188,Neurology,Routine
+53,Male,Diabetes,5,14,2,Home,0,189,Orthopedic,Routine
+36,Female,Hypertension,1,8,0,Home Health Care,0,190,cardiology,Routine
+84,Male,Diabetes,0,13,0,Skilled Nursing Facility,0,191,Orthopedic,Routine
+36,Female,Hypertension,4,1,3,Home,1,192,Neurology,Routine
+37,Male,Diabetes,3,2,4,Rehabilitation Facility,1,193,General,Emergency
+88,Female,Hypertension,2,2,2,Home,0,194,General,Routine
+69,Male,Hypertension,1,2,0,Home,1,195,cardiology,Routine
+50,Female,Diabetes,9,6,4,Skilled Nursing Facility,0,196,cardiology,Emergency
+57,Male,Hypertension,1,4,1,Home Health Care,0,197,Orthopedic,Routine
+56,Female,COPD,3,8,4,Home Health Care,1,198,cardiology,Emergency
+18,Female,Kidney Disease,1,1,2,Rehabilitation Facility,0,199,General,Emergency
+28,Male,Heart Disease,3,10,3,Home,0,200,Orthopedic,Routine
+74,Female,Hypertension,2,14,2,Skilled Nursing Facility,1,201,General,Routine
+67,Male,Hypertension,8,4,0,Home Health Care,0,202,Neurology,Emergency
+40,Male,Heart Disease,6,10,0,Rehabilitation Facility,0,203,cardiology,Emergency
+48,Male,Hypertension,2,11,4,Home Health Care,0,204,Neurology,Emergency
+59,Female,Heart Disease,7,5,2,Rehabilitation Facility,1,205,Orthopedic,Routine
+24,Female,Diabetes,8,9,0,Home Health Care,1,206,Orthopedic,Emergency
+33,Male,COPD,6,5,1,Rehabilitation Facility,0,207,General,Emergency
+77,Male,COPD,5,13,1,Home Health Care,1,208,Orthopedic,Emergency
+19,Female,Kidney Disease,3,11,3,Home Health Care,0,209,cardiology,Emergency
+18,Female,Hypertension,4,3,4,Home,1,210,General,Routine
+65,Female,Kidney Disease,7,11,0,Rehabilitation Facility,0,211,General,Routine
+29,Male,Diabetes,2,4,3,Rehabilitation Facility,0,212,General,Routine
+86,Male,COPD,1,10,1,Home,0,213,Orthopedic,Routine
+54,Male,Diabetes,2,7,3,Home,0,214,General,Emergency
+49,Male,Diabetes,6,1,3,Home Health Care,0,215,General,Routine
+26,Male,Hypertension,7,11,0,Home Health Care,0,216,Neurology,Routine
+36,Female,Diabetes,0,6,0,Home Health Care,0,217,General,Emergency
+65,Male,COPD,6,8,0,Home,1,218,General,Emergency
+20,Female,Kidney Disease,8,1,4,Home Health Care,0,219,General,Emergency
+37,Female,COPD,2,8,3,Home,0,220,General,Routine
+41,Male,Hypertension,2,7,3,Home Health Care,0,221,General,Emergency
+71,Female,COPD,7,1,4,Home,1,222,Neurology,Routine
+50,Male,Heart Disease,3,9,1,Rehabilitation Facility,0,223,Orthopedic,Routine
+41,Female,Kidney Disease,7,11,2,Skilled Nursing Facility,1,224,Neurology,Emergency
+89,Male,Heart Disease,4,3,1,Home Health Care,1,225,Orthopedic,Routine
+53,Male,Heart Disease,2,2,4,Home Health Care,0,226,Orthopedic,Routine
+55,Female,Hypertension,3,7,3,Home,0,227,Orthopedic,Routine
+42,Male,Diabetes,3,11,3,Rehabilitation Facility,1,228,Neurology,Emergency
+35,Female,Heart Disease,7,3,0,Rehabilitation Facility,1,229,Orthopedic,Routine
+83,Male,COPD,5,1,0,Home Health Care,0,230,Orthopedic,Emergency
+71,Male,Diabetes,6,10,3,Home,0,231,cardiology,Emergency
+52,Male,COPD,8,13,3,Home,0,232,Neurology,Routine
+78,Female,COPD,5,3,0,Skilled Nursing Facility,0,233,Orthopedic,Emergency
+58,Female,Diabetes,2,6,0,Rehabilitation Facility,0,234,Neurology,Routine
+50,Male,Diabetes,2,3,1,Skilled Nursing Facility,0,235,cardiology,Emergency
+85,Female,COPD,2,5,3,Rehabilitation Facility,0,236,General,Emergency
+50,Male,Hypertension,9,9,3,Home Health Care,0,237,Neurology,Emergency
+31,Female,Kidney Disease,1,7,4,Home Health Care,1,238,Neurology,Routine
+38,Female,Kidney Disease,0,2,1,Home,1,239,cardiology,Routine
+65,Male,Hypertension,9,1,2,Home,1,240,Orthopedic,Emergency
+37,Male,Diabetes,0,7,2,Home,1,241,Neurology,Emergency
+25,Male,COPD,3,4,2,Rehabilitation Facility,0,242,General,Routine
+24,Male,Kidney Disease,2,11,0,Home,1,243,cardiology,Routine
+84,Male,COPD,4,7,2,Home Health Care,1,244,General,Emergency
+34,Female,Hypertension,8,6,4,Skilled Nursing Facility,1,245,General,Emergency
+50,Female,COPD,7,7,0,Home Health Care,0,246,General,Emergency
+65,Male,Hypertension,8,4,0,Home Health Care,0,247,cardiology,Emergency
+76,Male,Diabetes,4,3,2,Home Health Care,0,248,General,Emergency
+39,Male,Hypertension,7,12,0,Skilled Nursing Facility,0,249,Neurology,Emergency
+47,Female,Hypertension,3,5,1,Home Health Care,1,250,General,Emergency
+55,Male,Kidney Disease,4,3,1,Rehabilitation Facility,0,251,Neurology,Emergency
+68,Male,COPD,2,14,2,Rehabilitation Facility,1,252,cardiology,Emergency
+71,Female,Kidney Disease,4,3,4,Skilled Nursing Facility,0,253,Orthopedic,Emergency
+25,Female,Heart Disease,2,4,0,Rehabilitation Facility,0,254,General,Emergency
+44,Female,Hypertension,4,8,3,Home,0,255,Orthopedic,Routine
+44,Female,Heart Disease,4,2,2,Rehabilitation Facility,0,256,Orthopedic,Routine
+38,Male,Kidney Disease,5,4,0,Home Health Care,0,257,General,Emergency
+47,Female,COPD,8,11,2,Rehabilitation Facility,0,258,cardiology,Emergency
+45,Female,Kidney Disease,0,3,2,Home,0,259,General,Routine
+81,Male,COPD,9,7,4,Home,0,260,Neurology,Emergency
+86,Male,COPD,5,2,3,Home,0,261,cardiology,Emergency
+78,Male,Diabetes,0,1,0,Home Health Care,1,262,General,Emergency
+65,Female,Hypertension,5,10,2,Home,0,263,cardiology,Routine
+36,Male,Kidney Disease,1,1,2,Home Health Care,0,264,Orthopedic,Emergency
+21,Female,COPD,7,6,0,Home,0,265,cardiology,Routine
+52,Female,Kidney Disease,2,3,2,Home Health Care,0,266,Orthopedic,Emergency
+81,Female,Kidney Disease,9,7,2,Home Health Care,0,267,Orthopedic,Routine
+66,Male,COPD,5,8,2,Home Health Care,0,268,Orthopedic,Routine
+34,Female,Heart Disease,5,5,1,Rehabilitation Facility,1,269,Neurology,Routine
+61,Male,Hypertension,3,5,1,Home,0,270,Neurology,Emergency
+47,Male,Hypertension,4,12,3,Home Health Care,0,271,General,Emergency
+63,Male,Diabetes,1,2,4,Home,0,272,cardiology,Emergency
+23,Female,Diabetes,9,8,0,Rehabilitation Facility,0,273,cardiology,Emergency
+54,Female,Diabetes,9,10,4,Skilled Nursing Facility,0,274,cardiology,Emergency
+41,Female,Hypertension,7,13,4,Home,0,275,Orthopedic,Emergency
+63,Male,Heart Disease,9,1,1,Home,0,276,Neurology,Emergency
+70,Female,Hypertension,6,10,3,Rehabilitation Facility,0,277,Neurology,Routine
+77,Female,Hypertension,9,9,4,Home Health Care,0,278,General,Emergency
+80,Female,Hypertension,5,1,4,Home,1,279,Orthopedic,Emergency
+49,Female,Hypertension,6,1,2,Skilled Nursing Facility,0,280,Neurology,Emergency
+50,Female,Heart Disease,0,1,0,Rehabilitation Facility,0,281,Orthopedic,Routine
+84,Male,Diabetes,4,7,3,Home Health Care,1,282,Neurology,Routine
+35,Male,Kidney Disease,6,4,0,Home,0,283,Orthopedic,Emergency
+42,Male,Diabetes,0,12,1,Home,0,284,Neurology,Emergency
+71,Male,Diabetes,1,7,4,Rehabilitation Facility,1,285,General,Emergency
+75,Female,Kidney Disease,8,5,4,Home Health Care,0,286,Orthopedic,Emergency
+84,Male,Hypertension,2,12,0,Home Health Care,0,287,Neurology,Routine
+63,Female,Heart Disease,5,14,1,Rehabilitation Facility,1,288,cardiology,Emergency
+41,Male,Heart Disease,6,7,2,Home,1,289,General,Routine
+49,Male,Diabetes,8,10,2,Home,0,290,Neurology,Emergency
+64,Male,Kidney Disease,4,14,4,Home Health Care,0,291,Orthopedic,Routine
+40,Female,COPD,3,7,4,Home Health Care,0,292,Neurology,Emergency
+83,Female,Hypertension,1,4,3,Skilled Nursing Facility,0,293,Orthopedic,Routine
+44,Male,Diabetes,2,2,0,Skilled Nursing Facility,0,294,Orthopedic,Emergency
+19,Female,Heart Disease,4,8,4,Skilled Nursing Facility,0,295,General,Emergency
+34,Male,Kidney Disease,1,2,1,Home Health Care,1,296,Neurology,Emergency
+50,Male,Kidney Disease,3,9,0,Home Health Care,0,297,cardiology,Emergency
+26,Male,Diabetes,0,5,3,Home Health Care,1,298,Orthopedic,Routine
+60,Female,COPD,3,9,2,Home,0,299,Neurology,Emergency
+65,Male,Heart Disease,6,9,3,Rehabilitation Facility,0,300,cardiology,Emergency
+56,Male,Diabetes,2,14,0,Home Health Care,0,301,cardiology,Emergency
+59,Male,COPD,9,8,2,Home,0,302,Orthopedic,Emergency
+43,Female,Kidney Disease,7,8,1,Home Health Care,0,303,General,Routine
+67,Male,Hypertension,5,4,2,Rehabilitation Facility,1,304,cardiology,Routine
+42,Female,Heart Disease,5,14,2,Home Health Care,0,305,Orthopedic,Emergency
+41,Male,Heart Disease,0,4,1,Home,0,306,General,Routine
+30,Female,COPD,4,14,4,Home Health Care,0,307,Orthopedic,Routine
+77,Male,Diabetes,2,2,4,Home Health Care,0,308,General,Routine
+24,Male,Kidney Disease,9,4,2,Home Health Care,0,309,General,Routine
+74,Female,COPD,0,4,2,Skilled Nursing Facility,1,310,cardiology,Routine
+53,Female,Hypertension,7,6,3,Home Health Care,0,311,Neurology,Routine
+62,Male,Hypertension,6,3,4,Home,0,312,Orthopedic,Emergency
+37,Female,Hypertension,6,2,1,Home,1,313,Orthopedic,Emergency
+82,Male,COPD,9,8,2,Home,0,314,Orthopedic,Routine
+25,Male,Kidney Disease,9,2,2,Home Health Care,0,315,Orthopedic,Routine
+33,Male,Heart Disease,9,8,3,Rehabilitation Facility,0,316,cardiology,Routine
+31,Female,Diabetes,3,7,3,Home,0,317,General,Emergency
+32,Male,Heart Disease,5,3,3,Skilled Nursing Facility,0,318,Orthopedic,Emergency
+83,Female,Kidney Disease,8,6,0,Rehabilitation Facility,0,319,General,Routine
+49,Male,Heart Disease,2,6,1,Home,0,320,General,Routine
+80,Female,COPD,8,10,0,Home Health Care,0,321,Orthopedic,Routine
+68,Female,Hypertension,3,14,2,Skilled Nursing Facility,0,322,cardiology,Routine
+42,Male,Kidney Disease,4,5,3,Home,0,323,General,Emergency
+75,Female,Kidney Disease,6,13,3,Skilled Nursing Facility,1,324,General,Routine
+80,Male,Heart Disease,5,8,3,Rehabilitation Facility,1,325,General,Routine
+79,Male,COPD,9,11,4,Home,0,326,Orthopedic,Routine
+39,Male,Heart Disease,7,12,1,Home Health Care,0,327,cardiology,Routine
+75,Male,Heart Disease,7,5,0,Skilled Nursing Facility,0,328,Neurology,Emergency
+75,Male,Kidney Disease,7,7,1,Home,0,329,General,Emergency
+66,Female,Heart Disease,2,6,3,Rehabilitation Facility,1,330,cardiology,Routine
+69,Male,Hypertension,9,11,2,Rehabilitation Facility,0,331,Neurology,Emergency
+59,Female,Heart Disease,5,7,4,Home,0,332,General,Emergency
+87,Female,Hypertension,6,13,1,Rehabilitation Facility,0,333,cardiology,Emergency
+32,Male,Kidney Disease,8,9,2,Skilled Nursing Facility,0,334,Orthopedic,Routine
+71,Female,COPD,9,3,3,Skilled Nursing Facility,0,335,cardiology,Emergency
+77,Male,Hypertension,9,10,3,Skilled Nursing Facility,0,336,Neurology,Routine
+25,Female,COPD,3,7,3,Skilled Nursing Facility,0,337,Neurology,Emergency
+70,Female,COPD,4,13,3,Rehabilitation Facility,0,338,General,Emergency
+77,Female,Hypertension,7,10,4,Home,0,339,Orthopedic,Routine
+22,Male,Kidney Disease,0,3,4,Rehabilitation Facility,0,340,General,Routine
+85,Female,Diabetes,5,13,1,Rehabilitation Facility,0,341,Orthopedic,Routine
+23,Male,COPD,3,2,3,Home,1,342,cardiology,Emergency
+64,Female,COPD,4,12,4,Home,0,343,General,Emergency
+72,Female,Kidney Disease,4,7,2,Home Health Care,1,344,Orthopedic,Emergency
+57,Female,Kidney Disease,1,4,4,Skilled Nursing Facility,0,345,Neurology,Routine
+69,Female,Heart Disease,7,1,4,Home,0,346,cardiology,Emergency
+33,Male,Kidney Disease,1,6,1,Rehabilitation Facility,0,347,Neurology,Routine
+30,Male,COPD,3,11,4,Skilled Nursing Facility,0,348,Neurology,Emergency
+47,Female,Hypertension,4,6,2,Skilled Nursing Facility,1,349,Orthopedic,Emergency
+36,Female,Diabetes,0,6,3,Rehabilitation Facility,0,350,General,Emergency
+34,Male,Heart Disease,5,2,0,Home,0,351,cardiology,Emergency
+80,Male,Hypertension,1,1,1,Skilled Nursing Facility,1,352,General,Routine
+36,Male,Diabetes,4,3,2,Skilled Nursing Facility,0,353,cardiology,Emergency
+75,Male,Diabetes,5,12,1,Skilled Nursing Facility,0,354,Neurology,Routine
+72,Female,Diabetes,7,14,3,Skilled Nursing Facility,0,355,General,Routine
+79,Female,Hypertension,8,2,4,Skilled Nursing Facility,0,356,Neurology,Emergency
+40,Male,Heart Disease,5,6,4,Rehabilitation Facility,0,357,Neurology,Emergency
+26,Male,Heart Disease,4,13,2,Home,0,358,General,Routine
+29,Male,Diabetes,3,12,3,Home,1,359,Orthopedic,Emergency
+18,Male,Hypertension,1,6,0,Skilled Nursing Facility,1,360,Orthopedic,Emergency
+75,Male,Diabetes,1,13,0,Skilled Nursing Facility,0,361,Neurology,Emergency
+18,Male,Kidney Disease,6,5,4,Skilled Nursing Facility,0,362,cardiology,Emergency
+51,Female,Heart Disease,4,10,3,Rehabilitation Facility,0,363,cardiology,Routine
+65,Female,COPD,6,10,3,Rehabilitation Facility,0,364,cardiology,Routine
+18,Female,Diabetes,0,5,2,Home Health Care,0,365,Neurology,Routine
+33,Male,Kidney Disease,0,9,0,Skilled Nursing Facility,1,366,Orthopedic,Emergency
+78,Male,Heart Disease,4,14,2,Home Health Care,0,367,General,Emergency
+81,Male,Hypertension,1,5,1,Home Health Care,0,368,General,Emergency
+80,Female,Heart Disease,7,13,3,Home Health Care,0,369,Neurology,Emergency
+86,Male,Hypertension,2,10,0,Home,0,370,General,Emergency
+39,Male,Hypertension,0,6,2,Home Health Care,0,371,cardiology,Routine
+84,Female,Diabetes,1,11,4,Skilled Nursing Facility,0,372,Orthopedic,Routine
+43,Male,Diabetes,9,4,1,Rehabilitation Facility,0,373,Neurology,Emergency
+33,Female,Heart Disease,9,10,2,Skilled Nursing Facility,0,374,Orthopedic,Routine
+68,Female,Kidney Disease,6,14,4,Rehabilitation Facility,0,375,Neurology,Emergency
+74,Male,Heart Disease,5,14,0,Home,0,376,General,Emergency
+46,Female,COPD,7,1,0,Home,1,377,cardiology,Routine
+86,Male,Hypertension,6,4,1,Skilled Nursing Facility,0,378,Neurology,Emergency
+64,Female,Hypertension,9,2,4,Home,0,379,General,Emergency
+79,Male,Diabetes,7,10,3,Rehabilitation Facility,0,380,Neurology,Emergency
+86,Female,Kidney Disease,2,3,0,Home,0,381,Neurology,Routine
+33,Male,Diabetes,5,7,3,Home Health Care,1,382,General,Routine
+65,Female,COPD,6,7,3,Home Health Care,0,383,Orthopedic,Emergency
+56,Female,Heart Disease,9,1,2,Home,1,384,Neurology,Routine
+50,Female,Heart Disease,0,8,2,Skilled Nursing Facility,0,385,Neurology,Emergency
+40,Male,Kidney Disease,0,7,0,Home Health Care,0,386,Neurology,Emergency
+27,Male,Diabetes,6,1,3,Rehabilitation Facility,0,387,General,Emergency
+86,Female,Diabetes,2,8,2,Skilled Nursing Facility,0,388,cardiology,Routine
+51,Male,COPD,2,14,4,Home,0,389,cardiology,Routine
+69,Female,Heart Disease,4,14,4,Skilled Nursing Facility,1,390,Orthopedic,Emergency
+27,Male,Diabetes,5,2,4,Skilled Nursing Facility,0,391,General,Emergency
+36,Female,Kidney Disease,1,8,4,Skilled Nursing Facility,0,392,Neurology,Routine
+75,Male,Heart Disease,2,3,3,Skilled Nursing Facility,0,393,General,Routine
+18,Female,COPD,5,10,4,Home,0,394,Neurology,Routine
+86,Female,Kidney Disease,2,7,3,Home,0,395,Neurology,Routine
+21,Female,Hypertension,4,13,0,Home Health Care,0,396,cardiology,Emergency
+33,Female,COPD,8,6,0,Home Health Care,0,397,General,Emergency
+41,Male,Kidney Disease,2,5,4,Rehabilitation Facility,0,398,Orthopedic,Routine
+19,Female,Diabetes,5,11,4,Rehabilitation Facility,0,399,Orthopedic,Routine
+49,Male,Hypertension,4,10,4,Home Health Care,0,400,Orthopedic,Emergency
+41,Male,COPD,4,14,0,Home Health Care,0,401,Neurology,Routine
+29,Female,Diabetes,5,11,2,Skilled Nursing Facility,1,402,Neurology,Routine
+67,Male,Hypertension,5,2,0,Home Health Care,1,403,Neurology,Routine
+52,Male,Heart Disease,0,2,4,Rehabilitation Facility,0,404,cardiology,Emergency
+50,Male,Diabetes,8,13,2,Home Health Care,0,405,General,Routine
+50,Female,Kidney Disease,4,12,2,Skilled Nursing Facility,0,406,cardiology,Emergency
+78,Male,COPD,0,1,1,Rehabilitation Facility,0,407,Orthopedic,Emergency
+68,Male,Hypertension,7,14,3,Home,1,408,cardiology,Emergency
+60,Female,Diabetes,6,9,4,Home Health Care,0,409,Orthopedic,Routine
+29,Female,Heart Disease,6,11,3,Home,1,410,cardiology,Emergency
+84,Male,COPD,4,8,1,Rehabilitation Facility,0,411,General,Emergency
+82,Female,COPD,0,8,3,Home Health Care,0,412,Orthopedic,Routine
+50,Male,Diabetes,8,1,4,Home,0,413,Neurology,Routine
+57,Male,Heart Disease,8,5,1,Home Health Care,0,414,Orthopedic,Routine
+60,Male,Hypertension,7,12,3,Home,0,415,General,Emergency
+61,Female,Diabetes,4,6,0,Home,0,416,Neurology,Emergency
+46,Male,Hypertension,2,2,2,Rehabilitation Facility,0,417,Orthopedic,Routine
+30,Female,COPD,7,10,1,Home Health Care,0,418,Orthopedic,Emergency
+29,Female,Hypertension,0,5,0,Home,1,419,cardiology,Emergency
+63,Male,Heart Disease,2,6,4,Home Health Care,0,420,Orthopedic,Routine
+19,Female,Kidney Disease,6,9,2,Home Health Care,0,421,cardiology,Emergency
+52,Female,Heart Disease,3,10,1,Skilled Nursing Facility,1,422,cardiology,Emergency
+25,Female,Hypertension,6,1,2,Rehabilitation Facility,1,423,Neurology,Routine
+43,Female,Diabetes,4,13,1,Home Health Care,0,424,Orthopedic,Routine
+51,Female,COPD,5,10,1,Home Health Care,0,425,Orthopedic,Emergency
+24,Male,Kidney Disease,6,3,3,Home Health Care,0,426,Orthopedic,Routine
+85,Female,Diabetes,9,12,2,Rehabilitation Facility,0,427,Orthopedic,Emergency
+75,Male,Diabetes,6,9,2,Rehabilitation Facility,0,428,General,Emergency
+46,Male,Heart Disease,6,14,0,Home Health Care,0,429,General,Emergency
+53,Male,Hypertension,6,1,4,Rehabilitation Facility,0,430,Orthopedic,Emergency
+38,Male,Heart Disease,6,1,0,Skilled Nursing Facility,0,431,Orthopedic,Routine
+53,Male,Hypertension,2,1,3,Rehabilitation Facility,0,432,General,Routine
+27,Male,Heart Disease,2,7,1,Skilled Nursing Facility,0,433,Orthopedic,Emergency
+41,Female,Diabetes,6,13,3,Skilled Nursing Facility,0,434,Neurology,Routine
+81,Female,COPD,1,5,3,Skilled Nursing Facility,0,435,Orthopedic,Routine
+66,Female,Hypertension,1,6,0,Home,0,436,cardiology,Emergency
+53,Male,Kidney Disease,2,13,1,Rehabilitation Facility,0,437,Neurology,Emergency
+41,Female,Kidney Disease,3,14,4,Home Health Care,1,438,Orthopedic,Routine
+40,Female,Diabetes,5,8,3,Skilled Nursing Facility,0,439,Orthopedic,Emergency
+79,Female,Heart Disease,7,14,4,Home Health Care,0,440,Neurology,Routine
+54,Male,Heart Disease,9,13,1,Skilled Nursing Facility,0,441,Orthopedic,Routine
+29,Female,Diabetes,9,2,1,Home Health Care,0,442,cardiology,Emergency
+72,Male,Kidney Disease,6,13,0,Home,0,443,Orthopedic,Routine
+30,Female,Kidney Disease,3,2,2,Skilled Nursing Facility,0,444,General,Emergency
+40,Male,Heart Disease,1,3,0,Home,1,445,General,Emergency
+47,Male,Hypertension,1,13,4,Home,0,446,Neurology,Routine
+34,Male,COPD,3,3,0,Rehabilitation Facility,0,447,Orthopedic,Routine
+79,Female,Hypertension,5,13,1,Home Health Care,1,448,Orthopedic,Routine
+30,Female,Kidney Disease,2,3,3,Skilled Nursing Facility,1,449,Neurology,Routine
+76,Male,Hypertension,5,4,2,Home,0,450,Orthopedic,Emergency
+36,Female,COPD,4,3,1,Home Health Care,0,451,cardiology,Routine
+66,Male,Hypertension,4,2,3,Rehabilitation Facility,0,452,Neurology,Emergency
+29,Male,Hypertension,1,9,4,Home Health Care,0,453,Orthopedic,Routine
+78,Female,Hypertension,7,6,4,Home Health Care,0,454,Orthopedic,Emergency
+36,Female,Hypertension,4,3,4,Rehabilitation Facility,1,455,cardiology,Routine
+26,Female,Diabetes,1,9,0,Rehabilitation Facility,0,456,General,Emergency
+88,Male,Kidney Disease,6,4,4,Rehabilitation Facility,0,457,cardiology,Routine
+45,Male,COPD,8,4,4,Home,0,458,Orthopedic,Emergency
+69,Female,Kidney Disease,8,8,0,Home Health Care,1,459,Neurology,Emergency
+33,Male,Diabetes,0,7,3,Rehabilitation Facility,0,460,General,Emergency
+86,Female,Diabetes,6,7,1,Home Health Care,0,461,cardiology,Routine
+29,Male,Diabetes,8,10,2,Home Health Care,0,462,Neurology,Routine
+42,Female,Diabetes,5,7,4,Home,0,463,cardiology,Routine
+69,Female,Hypertension,0,10,4,Home Health Care,0,464,General,Routine
+70,Male,Kidney Disease,1,11,4,Home,0,465,cardiology,Routine
+40,Female,Heart Disease,3,5,0,Rehabilitation Facility,0,466,cardiology,Emergency
+33,Female,COPD,3,7,0,Rehabilitation Facility,0,467,General,Emergency
+74,Male,Diabetes,1,4,0,Home Health Care,0,468,cardiology,Routine
+56,Female,Kidney Disease,7,8,2,Home,0,469,General,Emergency
+70,Male,Diabetes,1,9,1,Home,1,470,cardiology,Emergency
+59,Female,Diabetes,2,13,4,Skilled Nursing Facility,0,471,Neurology,Routine
+75,Male,Diabetes,3,12,3,Skilled Nursing Facility,0,472,Neurology,Routine
+56,Female,Diabetes,8,3,4,Rehabilitation Facility,0,473,cardiology,Emergency
+31,Female,Diabetes,9,7,4,Rehabilitation Facility,0,474,Orthopedic,Emergency
+22,Female,COPD,0,12,4,Skilled Nursing Facility,0,475,cardiology,Routine
+52,Female,Kidney Disease,7,10,4,Home,0,476,General,Emergency
+35,Male,Diabetes,4,9,1,Home Health Care,0,477,General,Routine
+26,Male,Diabetes,6,1,3,Home Health Care,0,478,Orthopedic,Routine
+75,Male,Diabetes,7,2,0,Home,0,479,Neurology,Emergency
+34,Male,Diabetes,4,7,3,Rehabilitation Facility,1,480,General,Routine
+24,Male,Hypertension,7,13,4,Home Health Care,0,481,cardiology,Routine
+63,Male,Hypertension,9,2,3,Home,0,482,Neurology,Routine
+30,Male,Heart Disease,7,7,4,Home Health Care,0,483,General,Routine
+57,Female,Diabetes,8,1,3,Home,0,484,cardiology,Emergency
+59,Female,Heart Disease,1,3,2,Skilled Nursing Facility,0,485,General,Routine
+26,Female,COPD,2,5,3,Skilled Nursing Facility,1,486,Orthopedic,Emergency
+67,Female,Heart Disease,0,14,0,Home Health Care,0,487,Orthopedic,Routine
+44,Male,Kidney Disease,3,12,0,Home Health Care,0,488,Neurology,Routine
+83,Male,Hypertension,4,14,3,Home Health Care,0,489,Orthopedic,Routine
+22,Male,Hypertension,0,11,3,Home Health Care,1,490,Neurology,Routine
+46,Female,Diabetes,7,6,1,Skilled Nursing Facility,0,491,Orthopedic,Routine
+54,Male,Diabetes,1,13,3,Skilled Nursing Facility,0,492,Orthopedic,Routine
+55,Female,COPD,0,9,0,Home,0,493,Neurology,Routine
+25,Male,COPD,1,9,2,Home Health Care,0,494,cardiology,Emergency
+82,Male,Kidney Disease,4,3,0,Skilled Nursing Facility,0,495,General,Routine
+34,Male,Diabetes,8,14,1,Rehabilitation Facility,0,496,Orthopedic,Routine
+88,Male,Diabetes,8,8,3,Home,0,497,General,Routine
+62,Female,COPD,1,13,2,Home,0,498,General,Routine
+21,Female,COPD,1,4,0,Home,0,499,General,Routine
+53,Male,COPD,2,7,2,Rehabilitation Facility,0,500,Orthopedic,Emergency
+87,Female,Hypertension,6,6,4,Rehabilitation Facility,0,501,General,Routine
+48,Male,Heart Disease,2,8,0,Rehabilitation Facility,0,502,Orthopedic,Routine
+36,Male,Heart Disease,0,6,4,Skilled Nursing Facility,0,503,General,Emergency
+78,Male,Diabetes,5,4,2,Rehabilitation Facility,0,504,cardiology,Emergency
+71,Male,Hypertension,2,2,3,Home,0,505,Orthopedic,Routine
+56,Female,COPD,0,7,3,Home Health Care,0,506,General,Emergency
+36,Male,Diabetes,3,11,3,Home,0,507,Neurology,Routine
+56,Male,Hypertension,0,13,4,Home,0,508,cardiology,Routine
+84,Female,Kidney Disease,0,11,3,Skilled Nursing Facility,0,509,Neurology,Routine
+62,Male,Hypertension,1,4,1,Home,0,510,Orthopedic,Routine
+30,Female,Diabetes,9,13,0,Skilled Nursing Facility,0,511,cardiology,Emergency
+75,Male,Heart Disease,7,9,0,Skilled Nursing Facility,0,512,General,Emergency
+37,Male,COPD,1,9,2,Home Health Care,0,513,General,Emergency
+89,Male,Kidney Disease,1,7,4,Home,0,514,cardiology,Emergency
+78,Male,Hypertension,9,5,0,Home Health Care,0,515,Neurology,Emergency
+56,Male,Diabetes,9,3,4,Home Health Care,0,516,General,Emergency
+18,Male,Diabetes,7,3,2,Home,1,517,Neurology,Routine
+20,Female,COPD,5,9,3,Home,1,518,Neurology,Emergency
+79,Male,Diabetes,3,9,2,Rehabilitation Facility,0,519,Neurology,Emergency
+80,Female,Diabetes,2,12,1,Rehabilitation Facility,1,520,General,Routine
+42,Female,COPD,0,13,3,Skilled Nursing Facility,0,521,General,Emergency
+73,Male,Kidney Disease,2,11,3,Home,1,522,cardiology,Routine
+50,Female,Heart Disease,8,4,3,Skilled Nursing Facility,1,523,General,Emergency
+55,Male,Heart Disease,4,11,2,Home Health Care,1,524,General,Emergency
+23,Female,Hypertension,5,1,1,Home Health Care,0,525,cardiology,Emergency
+75,Male,Kidney Disease,4,13,4,Rehabilitation Facility,0,526,General,Routine
+61,Female,Hypertension,0,10,2,Skilled Nursing Facility,0,527,cardiology,Emergency
+62,Female,Heart Disease,9,5,0,Home,0,528,Neurology,Routine
+49,Male,COPD,0,14,0,Home,0,529,General,Emergency
+62,Female,Diabetes,3,8,2,Rehabilitation Facility,1,530,General,Routine
+78,Male,Heart Disease,2,10,4,Rehabilitation Facility,0,531,Neurology,Routine
+64,Male,Kidney Disease,7,4,0,Skilled Nursing Facility,0,532,General,Emergency
+38,Male,Heart Disease,6,10,4,Rehabilitation Facility,0,533,General,Routine
+53,Male,Kidney Disease,6,10,3,Rehabilitation Facility,0,534,Neurology,Emergency
+36,Male,Kidney Disease,7,4,2,Rehabilitation Facility,1,535,Neurology,Routine
+37,Female,Kidney Disease,9,13,3,Home Health Care,1,536,General,Emergency
+74,Female,Hypertension,6,12,0,Skilled Nursing Facility,0,537,cardiology,Routine
+35,Female,COPD,9,14,4,Home,0,538,General,Emergency
+64,Male,Heart Disease,1,9,3,Home,0,539,Orthopedic,Routine
+66,Female,COPD,3,9,0,Skilled Nursing Facility,0,540,Neurology,Routine
+31,Female,Diabetes,5,7,1,Rehabilitation Facility,0,541,Orthopedic,Emergency
+32,Female,Heart Disease,2,10,3,Rehabilitation Facility,0,542,cardiology,Emergency
+48,Female,COPD,2,8,1,Home,0,543,General,Routine
+18,Female,COPD,5,12,1,Home Health Care,0,544,General,Emergency
+71,Male,Diabetes,0,12,0,Skilled Nursing Facility,0,545,Orthopedic,Routine
+20,Male,Kidney Disease,0,4,2,Rehabilitation Facility,0,546,Neurology,Routine
+33,Female,Heart Disease,4,8,4,Home Health Care,0,547,Orthopedic,Routine
+74,Male,Heart Disease,0,14,0,Home Health Care,0,548,cardiology,Routine
+29,Male,Diabetes,9,6,3,Rehabilitation Facility,1,549,Neurology,Emergency
+33,Female,Kidney Disease,7,13,4,Skilled Nursing Facility,0,550,Orthopedic,Routine
+89,Female,Heart Disease,1,3,2,Skilled Nursing Facility,0,551,Neurology,Emergency
+41,Male,Heart Disease,5,7,0,Home,0,552,General,Emergency
+45,Female,Heart Disease,9,3,2,Home,1,553,General,Emergency
+25,Male,Kidney Disease,9,11,3,Skilled Nursing Facility,0,554,cardiology,Routine
+53,Male,Diabetes,4,7,0,Rehabilitation Facility,0,555,General,Emergency
+25,Female,Heart Disease,9,5,3,Skilled Nursing Facility,0,556,Orthopedic,Emergency
+75,Male,COPD,3,4,4,Home,0,557,Orthopedic,Routine
+77,Male,Kidney Disease,0,3,4,Home,0,558,Neurology,Emergency
+67,Male,Hypertension,2,8,2,Home,0,559,Neurology,Emergency
+45,Female,Diabetes,3,4,2,Skilled Nursing Facility,1,560,Orthopedic,Emergency
+58,Female,COPD,1,8,4,Skilled Nursing Facility,0,561,cardiology,Routine
+81,Female,Heart Disease,1,10,1,Rehabilitation Facility,0,562,cardiology,Emergency
+44,Female,Hypertension,1,3,4,Home,1,563,Neurology,Emergency
+80,Male,Diabetes,0,10,0,Home Health Care,0,564,Neurology,Emergency
+34,Female,Kidney Disease,9,13,3,Home Health Care,0,565,cardiology,Routine
+50,Female,Hypertension,1,9,4,Rehabilitation Facility,0,566,General,Routine
+46,Female,Hypertension,5,6,4,Rehabilitation Facility,1,567,Orthopedic,Routine
+30,Female,COPD,2,5,3,Home,0,568,Neurology,Routine
+63,Male,Diabetes,9,5,3,Skilled Nursing Facility,0,569,Neurology,Routine
+52,Male,COPD,4,13,0,Skilled Nursing Facility,0,570,cardiology,Emergency
+23,Male,COPD,0,3,3,Home Health Care,1,571,Neurology,Routine
+86,Female,Heart Disease,7,2,2,Home,1,572,Orthopedic,Routine
+64,Female,Kidney Disease,3,6,4,Home Health Care,0,573,General,Routine
+42,Male,Hypertension,8,11,3,Home Health Care,0,574,cardiology,Emergency
+83,Female,Diabetes,3,1,0,Home,0,575,cardiology,Emergency
+27,Female,Kidney Disease,1,14,3,Rehabilitation Facility,0,576,Neurology,Emergency
+73,Male,Kidney Disease,2,7,4,Home Health Care,1,577,Neurology,Emergency
+47,Male,Diabetes,4,5,1,Rehabilitation Facility,0,578,Neurology,Routine
+22,Female,Kidney Disease,9,4,3,Skilled Nursing Facility,0,579,Orthopedic,Emergency
+50,Female,Heart Disease,5,9,2,Home Health Care,0,580,Neurology,Routine
+82,Female,Kidney Disease,6,10,4,Home,0,581,Orthopedic,Emergency
+35,Male,Heart Disease,3,1,0,Rehabilitation Facility,0,582,Neurology,Routine
+66,Male,Hypertension,6,11,4,Skilled Nursing Facility,0,583,Neurology,Routine
+28,Male,Hypertension,9,4,1,Skilled Nursing Facility,0,584,General,Emergency
+43,Male,COPD,2,3,0,Home Health Care,0,585,General,Routine
+80,Female,Heart Disease,6,6,1,Skilled Nursing Facility,0,586,cardiology,Emergency
+76,Male,Hypertension,3,5,1,Home,0,587,Orthopedic,Routine
+44,Male,Kidney Disease,7,7,2,Home Health Care,1,588,General,Routine
+66,Female,Diabetes,8,13,3,Skilled Nursing Facility,0,589,Neurology,Routine
+50,Female,Diabetes,6,1,2,Home,1,590,General,Emergency
+18,Female,Heart Disease,7,13,2,Rehabilitation Facility,0,591,Neurology,Routine
+38,Male,COPD,7,5,2,Rehabilitation Facility,1,592,Orthopedic,Emergency
+72,Female,Kidney Disease,1,14,0,Home Health Care,0,593,Orthopedic,Emergency
+23,Female,Heart Disease,8,2,3,Home,0,594,Neurology,Routine
+86,Male,Diabetes,5,2,3,Skilled Nursing Facility,0,595,General,Routine
+22,Male,Heart Disease,3,11,0,Home Health Care,0,596,cardiology,Emergency
+20,Female,Kidney Disease,4,11,2,Home Health Care,1,597,Orthopedic,Emergency
+70,Male,Hypertension,9,2,2,Skilled Nursing Facility,0,598,Neurology,Emergency
+40,Female,Kidney Disease,4,9,1,Home,0,599,cardiology,Emergency
+70,Female,Hypertension,6,10,1,Skilled Nursing Facility,0,600,Orthopedic,Emergency
+54,Male,Hypertension,8,3,4,Rehabilitation Facility,0,601,General,Emergency
+34,Female,Hypertension,6,4,1,Home Health Care,0,602,Neurology,Routine
+18,Male,Heart Disease,8,5,3,Rehabilitation Facility,0,603,cardiology,Emergency
+68,Male,Diabetes,3,14,0,Home Health Care,0,604,cardiology,Emergency
+62,Male,Heart Disease,9,4,2,Skilled Nursing Facility,0,605,Neurology,Emergency
+21,Female,Diabetes,9,4,4,Home,0,606,cardiology,Emergency
+79,Male,Kidney Disease,3,5,1,Skilled Nursing Facility,0,607,cardiology,Routine
+82,Male,COPD,5,10,4,Rehabilitation Facility,0,608,Orthopedic,Emergency
+49,Female,Kidney Disease,7,9,0,Home,1,609,cardiology,Routine
+51,Female,Heart Disease,8,12,0,Home,0,610,General,Routine
+89,Female,Heart Disease,0,9,4,Home Health Care,0,611,cardiology,Routine
+56,Female,Diabetes,0,14,4,Home,0,612,Orthopedic,Routine
+43,Male,Heart Disease,7,14,4,Home Health Care,0,613,Orthopedic,Routine
+51,Male,Hypertension,6,6,2,Home,0,614,cardiology,Routine
+71,Male,Heart Disease,8,11,3,Home,0,615,General,Emergency
+20,Female,Diabetes,2,12,1,Home Health Care,0,616,General,Emergency
+67,Female,Diabetes,9,14,1,Home,0,617,Neurology,Routine
+29,Male,Hypertension,4,3,1,Skilled Nursing Facility,0,618,General,Routine
+82,Female,Diabetes,2,6,4,Home,0,619,General,Emergency
+71,Female,COPD,4,10,4,Rehabilitation Facility,0,620,cardiology,Emergency
+22,Male,Kidney Disease,9,4,4,Home Health Care,0,621,Orthopedic,Routine
+74,Male,Heart Disease,0,3,2,Home Health Care,0,622,Orthopedic,Routine
+34,Female,COPD,3,6,2,Skilled Nursing Facility,0,623,Orthopedic,Emergency
+64,Female,Heart Disease,5,11,2,Rehabilitation Facility,0,624,General,Routine
+40,Female,COPD,1,6,2,Home,1,625,Orthopedic,Routine
+31,Male,Heart Disease,6,2,0,Skilled Nursing Facility,0,626,Orthopedic,Emergency
+83,Male,Hypertension,7,9,2,Home,1,627,General,Routine
+68,Male,Diabetes,0,8,2,Skilled Nursing Facility,0,628,cardiology,Routine
+55,Male,Diabetes,3,6,2,Home Health Care,0,629,Neurology,Routine
+81,Male,Hypertension,3,1,1,Rehabilitation Facility,0,630,General,Emergency
+55,Female,COPD,4,12,1,Home Health Care,0,631,General,Emergency
+67,Female,Kidney Disease,3,2,1,Skilled Nursing Facility,0,632,Neurology,Routine
+47,Female,COPD,8,4,3,Home,0,633,Orthopedic,Routine
+68,Male,Diabetes,6,7,0,Rehabilitation Facility,0,634,General,Emergency
+80,Male,Kidney Disease,1,9,4,Home,0,635,cardiology,Emergency
+69,Male,Heart Disease,0,10,2,Home Health Care,0,636,Orthopedic,Emergency
+55,Female,Kidney Disease,8,5,1,Home,0,637,General,Emergency
+47,Male,COPD,0,10,0,Skilled Nursing Facility,1,638,Orthopedic,Emergency
+68,Male,Hypertension,5,2,2,Rehabilitation Facility,0,639,Orthopedic,Emergency
+22,Female,Heart Disease,1,13,3,Rehabilitation Facility,0,640,cardiology,Routine
+46,Male,COPD,3,11,4,Rehabilitation Facility,1,641,Neurology,Emergency
+21,Female,Heart Disease,5,11,2,Skilled Nursing Facility,0,642,cardiology,Routine
+27,Male,Kidney Disease,4,11,4,Home,0,643,General,Routine
+73,Male,Diabetes,5,1,2,Rehabilitation Facility,1,644,Neurology,Routine
+34,Female,COPD,2,10,3,Home Health Care,0,645,cardiology,Routine
+34,Female,Hypertension,4,14,0,Home Health Care,0,646,General,Routine
+86,Female,Kidney Disease,1,13,4,Home Health Care,0,647,General,Routine
+51,Female,COPD,6,14,4,Home Health Care,0,648,Neurology,Routine
+23,Female,Hypertension,2,1,0,Home Health Care,0,649,General,Emergency
+70,Female,COPD,0,5,4,Skilled Nursing Facility,0,650,cardiology,Emergency
+83,Male,Kidney Disease,7,14,1,Home,0,651,General,Routine
+60,Male,COPD,7,7,0,Skilled Nursing Facility,0,652,Neurology,Emergency
+40,Female,Heart Disease,2,9,3,Home Health Care,0,653,Orthopedic,Emergency
+72,Male,Kidney Disease,6,9,2,Home Health Care,0,654,Neurology,Routine
+33,Female,COPD,8,8,2,Rehabilitation Facility,0,655,cardiology,Emergency
+25,Male,Diabetes,7,1,0,Rehabilitation Facility,1,656,General,Routine
+21,Female,COPD,2,5,1,Home,0,657,General,Routine
+21,Male,Heart Disease,1,6,3,Home,1,658,General,Routine
+73,Male,Hypertension,9,6,2,Home,0,659,Neurology,Emergency
+42,Male,Hypertension,6,4,2,Skilled Nursing Facility,0,660,General,Emergency
+84,Male,Hypertension,6,1,1,Rehabilitation Facility,0,661,cardiology,Emergency
+84,Male,Diabetes,8,3,4,Home,0,662,Orthopedic,Emergency
+44,Female,Heart Disease,4,10,0,Rehabilitation Facility,0,663,Neurology,Routine
+49,Female,Kidney Disease,3,4,1,Rehabilitation Facility,1,664,General,Emergency
+67,Female,Hypertension,7,4,1,Rehabilitation Facility,0,665,cardiology,Routine
+78,Male,Heart Disease,3,13,1,Rehabilitation Facility,1,666,cardiology,Routine
+68,Female,COPD,3,4,1,Rehabilitation Facility,0,667,General,Routine
+36,Male,Diabetes,1,14,4,Rehabilitation Facility,1,668,Neurology,Emergency
+38,Male,Heart Disease,0,5,3,Skilled Nursing Facility,0,669,Neurology,Emergency
+22,Male,Heart Disease,3,13,1,Home Health Care,1,670,Orthopedic,Emergency
+59,Female,Kidney Disease,6,11,1,Rehabilitation Facility,0,671,cardiology,Routine
+78,Male,Heart Disease,8,9,0,Skilled Nursing Facility,1,672,Neurology,Routine
+39,Female,Kidney Disease,8,4,2,Home,0,673,Neurology,Emergency
+38,Female,Diabetes,9,9,4,Skilled Nursing Facility,0,674,Neurology,Routine
+87,Male,Diabetes,0,9,1,Skilled Nursing Facility,0,675,cardiology,Emergency
+18,Male,COPD,4,1,3,Skilled Nursing Facility,0,676,Orthopedic,Emergency
+22,Female,Kidney Disease,6,5,3,Rehabilitation Facility,0,677,Orthopedic,Routine
+29,Female,Kidney Disease,6,9,3,Home,1,678,General,Emergency
+63,Female,Hypertension,9,4,0,Skilled Nursing Facility,0,679,cardiology,Emergency
+51,Female,Hypertension,5,5,3,Home,0,680,cardiology,Emergency
+66,Female,COPD,9,4,0,Skilled Nursing Facility,0,681,Neurology,Routine
+62,Female,Diabetes,3,13,4,Rehabilitation Facility,0,682,Neurology,Routine
+44,Male,Hypertension,2,2,3,Skilled Nursing Facility,0,683,Neurology,Emergency
+43,Female,Heart Disease,8,10,2,Skilled Nursing Facility,1,684,cardiology,Routine
+64,Female,Diabetes,9,2,1,Home,0,685,cardiology,Emergency
+73,Female,Heart Disease,3,2,4,Home,0,686,Orthopedic,Emergency
+80,Female,Kidney Disease,7,13,2,Home,0,687,cardiology,Routine
+65,Male,Diabetes,0,1,4,Home Health Care,0,688,Neurology,Routine
+78,Male,COPD,6,3,3,Home,0,689,cardiology,Emergency
+43,Female,Kidney Disease,5,14,4,Skilled Nursing Facility,0,690,cardiology,Emergency
+53,Female,Kidney Disease,0,11,4,Home Health Care,0,691,Neurology,Emergency
+18,Female,Heart Disease,3,10,4,Home,0,692,Neurology,Emergency
+25,Male,Kidney Disease,4,1,0,Rehabilitation Facility,1,693,Orthopedic,Emergency
+69,Male,Hypertension,7,4,2,Home,0,694,Orthopedic,Routine
+64,Male,Diabetes,3,1,3,Rehabilitation Facility,1,695,Orthopedic,Routine
+73,Male,Hypertension,2,4,1,Home Health Care,0,696,cardiology,Emergency
+31,Male,Heart Disease,1,3,3,Rehabilitation Facility,0,697,cardiology,Emergency
+45,Male,Heart Disease,3,9,3,Home Health Care,0,698,Orthopedic,Emergency
+19,Female,Diabetes,9,1,0,Rehabilitation Facility,0,699,General,Routine
+43,Male,Kidney Disease,3,14,0,Home,0,700,cardiology,Routine
+31,Male,COPD,9,8,4,Home Health Care,0,701,General,Emergency
+76,Female,Heart Disease,4,11,3,Skilled Nursing Facility,0,702,Orthopedic,Emergency
+73,Male,Diabetes,6,9,2,Skilled Nursing Facility,0,703,Orthopedic,Routine
+24,Female,COPD,8,12,0,Skilled Nursing Facility,0,704,General,Routine
+20,Male,Kidney Disease,1,7,0,Home,0,705,General,Routine
+40,Female,Heart Disease,4,1,2,Skilled Nursing Facility,1,706,General,Emergency
+35,Female,Diabetes,9,4,0,Home Health Care,0,707,Orthopedic,Routine
+55,Female,Diabetes,8,10,2,Skilled Nursing Facility,0,708,General,Routine
+32,Female,Diabetes,2,1,1,Home Health Care,1,709,cardiology,Emergency
+81,Female,Heart Disease,0,4,2,Skilled Nursing Facility,1,710,Neurology,Emergency
+45,Male,COPD,1,3,1,Rehabilitation Facility,0,711,Neurology,Emergency
+56,Male,Diabetes,5,2,4,Home Health Care,0,712,Neurology,Emergency
+74,Female,Kidney Disease,4,1,4,Skilled Nursing Facility,1,713,Orthopedic,Routine
+34,Female,Diabetes,0,6,0,Skilled Nursing Facility,0,714,General,Routine
+61,Female,COPD,0,12,2,Skilled Nursing Facility,0,715,Neurology,Routine
+42,Male,Heart Disease,3,7,0,Home Health Care,0,716,General,Routine
+34,Female,Diabetes,3,6,2,Home Health Care,0,717,Neurology,Routine
+30,Female,Diabetes,5,9,0,Skilled Nursing Facility,1,718,General,Routine
+42,Female,Kidney Disease,5,12,4,Rehabilitation Facility,0,719,Orthopedic,Routine
+85,Female,Kidney Disease,9,9,4,Home Health Care,1,720,Neurology,Routine
+27,Male,Diabetes,5,2,0,Home Health Care,0,721,General,Emergency
+84,Female,Diabetes,0,2,2,Rehabilitation Facility,0,722,General,Routine
+35,Female,Kidney Disease,9,9,3,Home,0,723,Neurology,Routine
+51,Male,COPD,8,1,2,Rehabilitation Facility,1,724,General,Emergency
+25,Female,Hypertension,6,5,0,Skilled Nursing Facility,0,725,Orthopedic,Routine
+57,Female,Hypertension,6,1,2,Home Health Care,0,726,General,Routine
+59,Male,Diabetes,6,7,1,Home Health Care,0,727,cardiology,Routine
+58,Male,Kidney Disease,1,9,2,Home Health Care,0,728,Orthopedic,Emergency
+23,Male,Heart Disease,1,6,4,Home Health Care,0,729,cardiology,Emergency
+69,Female,Heart Disease,5,14,4,Home,0,730,Neurology,Emergency
+43,Female,Hypertension,6,2,1,Home Health Care,1,731,Orthopedic,Routine
+81,Male,COPD,2,6,2,Home Health Care,0,732,General,Emergency
+76,Male,Hypertension,3,9,3,Home,0,733,Neurology,Emergency
+73,Male,Diabetes,2,3,2,Skilled Nursing Facility,0,734,Orthopedic,Emergency
+76,Female,COPD,6,9,4,Skilled Nursing Facility,0,735,cardiology,Routine
+87,Female,Heart Disease,6,8,4,Home,0,736,General,Routine
+50,Male,Kidney Disease,3,13,0,Skilled Nursing Facility,1,737,Orthopedic,Routine
+70,Female,Kidney Disease,6,12,4,Skilled Nursing Facility,0,738,Neurology,Routine
+39,Male,Diabetes,4,7,0,Rehabilitation Facility,1,739,General,Emergency
+38,Female,Hypertension,0,8,4,Rehabilitation Facility,1,740,Neurology,Emergency
+87,Female,Diabetes,9,10,4,Rehabilitation Facility,0,741,cardiology,Emergency
+87,Female,Kidney Disease,3,6,3,Home,0,742,cardiology,Emergency
+21,Female,Heart Disease,6,3,0,Home Health Care,0,743,Orthopedic,Emergency
+79,Male,Kidney Disease,1,7,0,Home,0,744,cardiology,Routine
+79,Female,COPD,1,4,4,Home,0,745,Neurology,Routine
+41,Female,Kidney Disease,0,11,0,Home,0,746,cardiology,Emergency
+72,Male,Kidney Disease,1,10,4,Home,0,747,Neurology,Routine
+26,Female,COPD,9,14,4,Rehabilitation Facility,1,748,General,Routine
+20,Male,Hypertension,7,5,2,Home,0,749,General,Routine
+48,Male,Kidney Disease,7,8,0,Rehabilitation Facility,0,750,Orthopedic,Routine
+57,Female,Diabetes,7,7,1,Home Health Care,0,751,General,Routine
+53,Female,Kidney Disease,0,7,0,Skilled Nursing Facility,0,752,General,Emergency
+41,Male,Diabetes,0,8,0,Rehabilitation Facility,0,753,cardiology,Emergency
+23,Male,COPD,9,10,3,Home,1,754,Orthopedic,Emergency
+83,Male,Kidney Disease,3,3,1,Home Health Care,0,755,General,Emergency
+21,Female,COPD,5,3,1,Home,0,756,cardiology,Emergency
+23,Male,COPD,7,2,3,Home Health Care,0,757,Neurology,Emergency
+68,Male,Hypertension,1,1,3,Skilled Nursing Facility,0,758,General,Routine
+79,Male,Kidney Disease,2,10,0,Home Health Care,0,759,General,Routine
+74,Female,Diabetes,5,6,2,Home Health Care,1,760,cardiology,Emergency
+83,Male,Diabetes,9,6,3,Skilled Nursing Facility,1,761,cardiology,Emergency
+25,Female,Kidney Disease,3,13,1,Skilled Nursing Facility,0,762,Orthopedic,Routine
+43,Female,Hypertension,1,10,1,Home Health Care,0,763,cardiology,Emergency
+68,Male,Hypertension,6,12,0,Home,0,764,General,Routine
+62,Female,Hypertension,3,8,2,Rehabilitation Facility,0,765,cardiology,Emergency
+61,Male,Diabetes,7,14,4,Home,0,766,General,Routine
+22,Female,COPD,7,6,3,Rehabilitation Facility,0,767,Orthopedic,Routine
+87,Female,Hypertension,6,6,3,Skilled Nursing Facility,0,768,Neurology,Emergency
+43,Male,Diabetes,9,1,0,Home,0,769,Orthopedic,Routine
+85,Male,Diabetes,8,12,2,Skilled Nursing Facility,0,770,cardiology,Routine
+36,Male,COPD,3,7,1,Home Health Care,0,771,Neurology,Routine
+37,Female,Kidney Disease,6,7,1,Home Health Care,0,772,General,Emergency
+29,Female,Kidney Disease,9,10,4,Home,0,773,Neurology,Routine
+64,Male,Hypertension,9,9,1,Skilled Nursing Facility,0,774,cardiology,Emergency
+18,Male,Hypertension,0,14,3,Home,1,775,Orthopedic,Routine
+31,Female,COPD,3,12,4,Home,0,776,cardiology,Routine
+81,Female,Hypertension,1,7,2,Rehabilitation Facility,1,777,Neurology,Emergency
+55,Female,COPD,8,8,4,Home Health Care,0,778,Neurology,Emergency
+54,Male,Diabetes,4,4,2,Home,0,779,Orthopedic,Routine
+28,Female,Hypertension,2,9,1,Home Health Care,0,780,Orthopedic,Routine
+20,Male,Diabetes,3,14,0,Rehabilitation Facility,0,781,General,Routine
+50,Female,Heart Disease,5,1,4,Skilled Nursing Facility,0,782,General,Routine
+23,Female,COPD,9,8,4,Home,0,783,Neurology,Emergency
+67,Male,Heart Disease,0,3,3,Home Health Care,0,784,Neurology,Routine
+27,Male,Hypertension,6,14,3,Home,0,785,General,Routine
+22,Male,Diabetes,7,1,2,Skilled Nursing Facility,0,786,Neurology,Routine
+40,Female,Hypertension,6,2,0,Home,0,787,Orthopedic,Routine
+27,Female,Heart Disease,6,6,3,Home,1,788,Orthopedic,Emergency
+61,Female,Hypertension,8,5,3,Home Health Care,1,789,Neurology,Routine
+19,Male,Kidney Disease,3,14,1,Skilled Nursing Facility,0,790,General,Routine
+30,Female,Heart Disease,6,3,1,Rehabilitation Facility,0,791,Neurology,Emergency
+57,Male,Hypertension,8,9,3,Skilled Nursing Facility,0,792,cardiology,Emergency
+19,Male,Diabetes,4,8,2,Skilled Nursing Facility,1,793,Neurology,Routine
+82,Male,Hypertension,1,13,0,Rehabilitation Facility,0,794,General,Emergency
+80,Female,Diabetes,4,3,3,Home,1,795,Neurology,Routine
+34,Female,Kidney Disease,3,2,2,Home Health Care,0,796,Neurology,Routine
+26,Male,Hypertension,7,8,2,Home,1,797,cardiology,Emergency
+32,Female,Kidney Disease,4,14,3,Home,0,798,Orthopedic,Emergency
+41,Male,Heart Disease,8,5,2,Rehabilitation Facility,0,799,General,Emergency
+55,Male,Diabetes,8,9,4,Rehabilitation Facility,0,800,Orthopedic,Routine
+52,Female,Heart Disease,2,1,2,Home,1,801,General,Routine
+66,Male,Diabetes,9,10,3,Skilled Nursing Facility,1,802,Orthopedic,Routine
+86,Male,Kidney Disease,5,3,2,Home Health Care,0,803,Neurology,Emergency
+79,Female,COPD,5,5,3,Skilled Nursing Facility,0,804,Neurology,Routine
+77,Male,Hypertension,3,2,1,Home,0,805,Orthopedic,Routine
+67,Male,Kidney Disease,9,3,3,Home,0,806,General,Routine
+26,Male,Diabetes,2,4,2,Home Health Care,1,807,General,Routine
+51,Male,Diabetes,0,4,3,Skilled Nursing Facility,0,808,Neurology,Emergency
+52,Male,Diabetes,6,11,0,Home,0,809,Neurology,Emergency
+18,Male,Diabetes,4,9,3,Home,0,810,Orthopedic,Routine
+57,Male,Hypertension,9,1,3,Rehabilitation Facility,0,811,Neurology,Routine
+81,Female,Heart Disease,6,12,0,Home Health Care,1,812,Orthopedic,Emergency
+39,Female,COPD,0,9,0,Rehabilitation Facility,0,813,Neurology,Routine
+77,Male,Hypertension,7,9,0,Rehabilitation Facility,0,814,Orthopedic,Routine
+81,Male,Diabetes,2,11,4,Rehabilitation Facility,0,815,General,Routine
+89,Female,Hypertension,6,6,3,Home,0,816,Orthopedic,Emergency
+28,Female,Kidney Disease,2,11,0,Skilled Nursing Facility,0,817,Neurology,Routine
+31,Female,Diabetes,2,1,0,Rehabilitation Facility,1,818,Neurology,Routine
+77,Female,COPD,9,11,1,Skilled Nursing Facility,0,819,Neurology,Routine
+47,Female,Diabetes,8,13,4,Home,1,820,Neurology,Emergency
+52,Male,COPD,1,12,3,Rehabilitation Facility,0,821,Neurology,Routine
+54,Female,COPD,3,6,2,Home,1,822,cardiology,Routine
+22,Female,Heart Disease,5,8,4,Rehabilitation Facility,0,823,Orthopedic,Emergency
+43,Female,Heart Disease,2,5,4,Rehabilitation Facility,0,824,Neurology,Routine
+79,Male,Hypertension,9,5,1,Home,0,825,General,Emergency
+21,Male,Hypertension,9,1,3,Home Health Care,1,826,General,Emergency
+59,Male,COPD,6,1,3,Home Health Care,0,827,Orthopedic,Routine
+35,Male,Diabetes,6,8,0,Skilled Nursing Facility,0,828,Orthopedic,Routine
+57,Male,Kidney Disease,4,13,0,Skilled Nursing Facility,1,829,Neurology,Routine
+89,Male,Kidney Disease,2,5,4,Home,0,830,Neurology,Emergency
+56,Female,Diabetes,1,8,1,Home,0,831,Orthopedic,Routine
+31,Male,Diabetes,3,10,3,Home,0,832,General,Emergency
+49,Male,Heart Disease,3,2,1,Home Health Care,0,833,cardiology,Routine
+68,Female,Kidney Disease,7,4,2,Home Health Care,0,834,cardiology,Routine
+55,Male,COPD,7,13,3,Rehabilitation Facility,0,835,Neurology,Routine
+40,Female,Hypertension,4,11,0,Rehabilitation Facility,0,836,cardiology,Routine
+80,Female,Heart Disease,5,14,4,Home,0,837,General,Routine
+32,Male,Kidney Disease,7,10,1,Home,0,838,General,Routine
+42,Female,Diabetes,0,9,0,Skilled Nursing Facility,0,839,cardiology,Routine
+34,Female,Kidney Disease,4,13,4,Home Health Care,0,840,cardiology,Routine
+83,Female,COPD,3,3,0,Home,0,841,cardiology,Routine
+70,Female,Heart Disease,3,6,3,Home Health Care,1,842,General,Routine
+68,Male,Diabetes,1,11,1,Home,1,843,Orthopedic,Emergency
+56,Female,COPD,9,7,2,Rehabilitation Facility,1,844,Neurology,Routine
+68,Male,Hypertension,0,3,0,Home,0,845,Orthopedic,Routine
+87,Female,Heart Disease,5,1,1,Rehabilitation Facility,1,846,General,Emergency
+23,Female,COPD,6,2,3,Skilled Nursing Facility,1,847,Neurology,Routine
+84,Female,COPD,4,11,0,Skilled Nursing Facility,0,848,Orthopedic,Emergency
+24,Male,Diabetes,7,14,3,Skilled Nursing Facility,0,849,cardiology,Emergency
+68,Male,Hypertension,8,10,2,Home,0,850,Neurology,Routine
+89,Male,COPD,1,7,2,Skilled Nursing Facility,0,851,Neurology,Routine
+59,Female,Heart Disease,3,7,4,Home,1,852,General,Routine
+81,Female,COPD,8,12,4,Home Health Care,0,853,Neurology,Routine
+32,Female,Kidney Disease,4,1,4,Rehabilitation Facility,0,854,Orthopedic,Emergency
+46,Female,Heart Disease,2,10,3,Home Health Care,0,855,cardiology,Emergency
+50,Male,Heart Disease,5,7,4,Home,0,856,cardiology,Routine
+44,Female,COPD,2,10,1,Skilled Nursing Facility,0,857,General,Emergency
+53,Male,Diabetes,4,11,3,Rehabilitation Facility,1,858,General,Emergency
+46,Female,Heart Disease,2,6,3,Skilled Nursing Facility,0,859,Neurology,Routine
+55,Male,Kidney Disease,5,11,4,Home Health Care,1,860,Orthopedic,Emergency
+74,Male,Diabetes,9,6,4,Home,0,861,Orthopedic,Emergency
+44,Female,Diabetes,4,7,3,Rehabilitation Facility,0,862,cardiology,Emergency
+72,Female,Diabetes,8,7,2,Rehabilitation Facility,0,863,General,Routine
+50,Male,Heart Disease,2,1,2,Home,1,864,cardiology,Emergency
+85,Female,Diabetes,5,10,4,Home,0,865,cardiology,Routine
+83,Female,COPD,7,5,2,Rehabilitation Facility,0,866,Neurology,Routine
+27,Male,Diabetes,6,14,1,Home Health Care,0,867,General,Routine
+22,Male,Kidney Disease,5,14,1,Home Health Care,1,868,Orthopedic,Routine
+55,Male,Hypertension,1,8,1,Skilled Nursing Facility,0,869,cardiology,Routine
+30,Male,Kidney Disease,6,8,3,Rehabilitation Facility,0,870,cardiology,Emergency
+48,Female,Heart Disease,7,3,3,Home,0,871,Neurology,Emergency
+64,Male,Diabetes,0,3,3,Home,0,872,cardiology,Routine
+69,Male,Diabetes,8,7,3,Home,1,873,Orthopedic,Emergency
+73,Male,COPD,3,4,3,Home,1,874,General,Routine
+32,Female,Diabetes,7,6,4,Rehabilitation Facility,0,875,cardiology,Routine
+46,Male,Kidney Disease,9,9,2,Home Health Care,1,876,Neurology,Emergency
+25,Female,Heart Disease,6,10,4,Skilled Nursing Facility,0,877,Neurology,Routine
+22,Male,Hypertension,9,2,2,Home Health Care,0,878,General,Routine
+46,Male,Diabetes,6,2,4,Skilled Nursing Facility,1,879,Orthopedic,Routine
+64,Female,Hypertension,1,6,1,Home,0,880,Neurology,Routine
+85,Male,Diabetes,0,3,0,Home,0,881,Orthopedic,Emergency
+62,Male,Heart Disease,3,1,3,Rehabilitation Facility,0,882,Neurology,Routine
+19,Female,Kidney Disease,1,2,0,Home,0,883,Orthopedic,Emergency
+44,Male,Heart Disease,7,14,0,Rehabilitation Facility,0,884,cardiology,Emergency
+53,Male,Hypertension,9,13,1,Rehabilitation Facility,0,885,Neurology,Emergency
+53,Male,Diabetes,6,7,0,Rehabilitation Facility,1,886,Neurology,Routine
+43,Male,Hypertension,7,4,0,Home,0,887,Neurology,Routine
+60,Female,Kidney Disease,5,12,1,Home,0,888,General,Routine
+44,Male,Heart Disease,0,2,2,Home Health Care,1,889,Neurology,Emergency
+86,Female,Hypertension,8,11,4,Skilled Nursing Facility,0,890,cardiology,Emergency
+37,Male,Hypertension,5,12,0,Home Health Care,0,891,cardiology,Emergency
+28,Female,Kidney Disease,9,12,3,Home,0,892,Orthopedic,Routine
+55,Male,Diabetes,0,8,1,Skilled Nursing Facility,0,893,Orthopedic,Emergency
+23,Female,Hypertension,0,4,0,Rehabilitation Facility,0,894,cardiology,Emergency
+89,Male,Kidney Disease,7,4,2,Skilled Nursing Facility,0,895,Orthopedic,Routine
+40,Female,Diabetes,5,2,2,Rehabilitation Facility,1,896,cardiology,Routine
+64,Female,Diabetes,7,14,3,Home,1,897,Neurology,Emergency
+63,Male,Heart Disease,7,1,0,Skilled Nursing Facility,1,898,cardiology,Routine
+29,Female,Kidney Disease,7,1,3,Rehabilitation Facility,0,899,Neurology,Emergency
+30,Male,Diabetes,9,3,2,Home Health Care,0,900,cardiology,Emergency
+79,Male,Heart Disease,6,6,2,Home Health Care,1,901,Orthopedic,Routine
+77,Male,COPD,6,7,4,Rehabilitation Facility,0,902,General,Routine
+60,Male,Kidney Disease,9,13,2,Home Health Care,0,903,Neurology,Emergency
+85,Male,COPD,3,9,1,Home Health Care,0,904,Neurology,Routine
+22,Female,Diabetes,8,5,4,Skilled Nursing Facility,0,905,Neurology,Emergency
+54,Male,Kidney Disease,1,9,3,Home Health Care,0,906,General,Routine
+89,Male,Heart Disease,8,8,2,Skilled Nursing Facility,0,907,Neurology,Routine
+48,Male,Diabetes,9,1,1,Home,0,908,Orthopedic,Routine
+26,Male,Kidney Disease,2,11,4,Home Health Care,0,909,Neurology,Routine
+68,Male,Kidney Disease,1,12,1,Home,0,910,General,Routine
+46,Male,COPD,3,3,4,Home Health Care,1,911,Neurology,Emergency
+57,Female,Diabetes,4,8,4,Rehabilitation Facility,1,912,cardiology,Routine
+58,Female,Heart Disease,1,9,4,Rehabilitation Facility,0,913,Neurology,Routine
+28,Male,Heart Disease,0,14,3,Home,0,914,General,Routine
+40,Female,Diabetes,9,4,4,Home,0,915,Orthopedic,Routine
+18,Male,Diabetes,4,14,4,Home,0,916,cardiology,Emergency
+63,Male,Hypertension,8,14,1,Rehabilitation Facility,0,917,Orthopedic,Routine
+38,Male,COPD,4,14,4,Home,0,918,cardiology,Routine
+53,Male,Diabetes,9,12,3,Rehabilitation Facility,1,919,cardiology,Routine
+71,Male,Diabetes,8,6,1,Home,0,920,Neurology,Emergency
+74,Female,Hypertension,9,4,4,Skilled Nursing Facility,0,921,cardiology,Emergency
+18,Female,Hypertension,5,13,1,Skilled Nursing Facility,0,922,Neurology,Routine
+80,Female,Kidney Disease,2,9,3,Home Health Care,0,923,Orthopedic,Routine
+71,Female,Heart Disease,3,2,1,Skilled Nursing Facility,0,924,Neurology,Routine
+72,Male,COPD,3,6,3,Home,0,925,General,Routine
+57,Female,Kidney Disease,0,11,2,Skilled Nursing Facility,0,926,cardiology,Emergency
+32,Male,Diabetes,2,13,4,Skilled Nursing Facility,0,927,Orthopedic,Emergency
+38,Female,Hypertension,2,3,3,Home,0,928,Orthopedic,Routine
+64,Female,Heart Disease,0,10,4,Skilled Nursing Facility,0,929,General,Routine
+70,Female,Kidney Disease,8,4,3,Home,0,930,cardiology,Routine
+26,Female,Heart Disease,0,2,0,Skilled Nursing Facility,0,931,General,Emergency
+69,Male,Hypertension,8,11,0,Home,0,932,cardiology,Emergency
+74,Female,Kidney Disease,0,8,0,Rehabilitation Facility,0,933,Neurology,Routine
+43,Female,Kidney Disease,1,10,3,Rehabilitation Facility,0,934,Neurology,Routine
+58,Male,Heart Disease,1,8,4,Home Health Care,0,935,cardiology,Routine
+52,Male,Hypertension,5,1,0,Skilled Nursing Facility,0,936,cardiology,Routine
+80,Female,Diabetes,6,10,4,Home Health Care,0,937,cardiology,Routine
+42,Male,Kidney Disease,0,6,3,Home,0,938,Orthopedic,Emergency
+55,Male,Diabetes,2,1,4,Rehabilitation Facility,0,939,General,Emergency
+19,Male,Hypertension,1,6,4,Home,0,940,General,Emergency
+24,Female,Kidney Disease,7,7,0,Home Health Care,1,941,Neurology,Routine
+51,Male,Kidney Disease,8,2,1,Home,1,942,cardiology,Routine
+34,Female,Diabetes,1,9,2,Home,0,943,Neurology,Routine
+60,Female,COPD,1,8,3,Home,1,944,Orthopedic,Emergency
+76,Female,Diabetes,9,9,3,Home,0,945,Orthopedic,Emergency
+68,Female,Diabetes,8,10,3,Rehabilitation Facility,1,946,Neurology,Routine
+71,Male,COPD,3,13,2,Home,0,947,cardiology,Routine
+41,Female,Hypertension,4,4,1,Home,0,948,Neurology,Routine
+42,Male,Hypertension,8,4,4,Rehabilitation Facility,0,949,Neurology,Routine
+88,Female,Kidney Disease,5,12,3,Home,0,950,General,Routine
+69,Male,Heart Disease,9,8,4,Home,0,951,cardiology,Routine
+87,Female,Heart Disease,8,1,0,Home Health Care,0,952,General,Routine
+50,Male,Kidney Disease,8,8,0,Rehabilitation Facility,0,953,Orthopedic,Emergency
+66,Female,Heart Disease,6,7,0,Skilled Nursing Facility,0,954,cardiology,Emergency
+46,Female,Diabetes,9,12,3,Home,1,955,General,Routine
+80,Male,Diabetes,8,7,2,Home Health Care,0,956,General,Routine
+39,Female,COPD,4,9,3,Rehabilitation Facility,0,957,Orthopedic,Emergency
+43,Female,COPD,4,13,0,Home,0,958,Orthopedic,Routine
+45,Female,Kidney Disease,7,10,0,Skilled Nursing Facility,0,959,Orthopedic,Emergency
+66,Male,Kidney Disease,9,7,3,Home,0,960,Orthopedic,Routine
+88,Female,Kidney Disease,3,2,2,Home Health Care,0,961,cardiology,Routine
+66,Female,Diabetes,8,1,2,Rehabilitation Facility,1,962,Orthopedic,Emergency
+37,Male,Heart Disease,6,1,4,Home Health Care,0,963,Neurology,Routine
+80,Male,Kidney Disease,6,7,1,Rehabilitation Facility,0,964,Orthopedic,Routine
+78,Male,Kidney Disease,2,5,0,Skilled Nursing Facility,0,965,General,Emergency
+66,Male,Diabetes,3,4,2,Home,0,966,General,Routine
+88,Male,Diabetes,6,5,0,Home Health Care,0,967,General,Routine
+18,Female,Diabetes,4,10,1,Skilled Nursing Facility,0,968,cardiology,Routine
+30,Female,Heart Disease,2,10,0,Skilled Nursing Facility,0,969,General,Routine
+68,Female,Kidney Disease,0,6,2,Home,0,970,cardiology,Emergency
+73,Male,Hypertension,6,12,4,Home Health Care,0,971,General,Routine
+79,Female,Hypertension,5,10,3,Home,1,972,Orthopedic,Emergency
+49,Male,Kidney Disease,9,6,3,Home,0,973,Orthopedic,Routine
+47,Male,Kidney Disease,6,1,2,Rehabilitation Facility,0,974,General,Routine
+46,Female,Kidney Disease,1,2,2,Rehabilitation Facility,0,975,Orthopedic,Emergency
+66,Male,Kidney Disease,3,3,1,Home,1,976,Orthopedic,Emergency
+62,Male,Heart Disease,1,4,0,Rehabilitation Facility,0,977,Orthopedic,Routine
+47,Female,Hypertension,7,6,1,Home Health Care,1,978,Neurology,Emergency
+33,Male,COPD,6,12,3,Rehabilitation Facility,0,979,General,Emergency
+57,Male,Hypertension,0,12,0,Skilled Nursing Facility,0,980,cardiology,Emergency
+36,Female,Hypertension,1,11,1,Home,0,981,Orthopedic,Emergency
+35,Male,Diabetes,1,13,3,Home,0,982,Orthopedic,Emergency
+18,Male,Kidney Disease,3,9,0,Home Health Care,0,983,Orthopedic,Emergency
+64,Female,Kidney Disease,2,12,4,Home,0,984,Orthopedic,Emergency
+83,Female,Kidney Disease,0,2,4,Rehabilitation Facility,0,985,General,Routine
+55,Female,Diabetes,1,8,1,Skilled Nursing Facility,0,986,Neurology,Emergency
+68,Female,Heart Disease,8,9,2,Home,0,987,Neurology,Routine
+80,Male,Heart Disease,0,2,0,Rehabilitation Facility,0,988,Neurology,Emergency
+21,Male,COPD,8,9,1,Skilled Nursing Facility,0,989,cardiology,Routine
+18,Female,Heart Disease,6,7,2,Home,0,990,Neurology,Routine
+25,Male,Heart Disease,1,9,2,Home,0,991,cardiology,Emergency
+46,Male,Kidney Disease,1,6,0,Home,0,992,Neurology,Emergency
+72,Female,Hypertension,4,2,0,Skilled Nursing Facility,0,993,Orthopedic,Routine
+20,Female,Heart Disease,4,8,2,Home,0,994,Orthopedic,Routine
+49,Male,Heart Disease,3,10,3,Home,0,995,Orthopedic,Emergency
+27,Female,Diabetes,9,9,1,Rehabilitation Facility,1,996,cardiology,Emergency
+51,Female,COPD,9,12,0,Rehabilitation Facility,0,997,General,Emergency
+72,Female,Diabetes,2,8,2,Rehabilitation Facility,0,998,General,Routine
+49,Male,Kidney Disease,3,2,3,Rehabilitation Facility,0,999,General,Emergency
