@@ -145,6 +145,9 @@ It is inspired by real-world hospital workflow challenges and aims to enhance pa
 [![Screenshot](Screenshot%20(228).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
 [![Screenshot](Screenshot%20(229).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
 [![Screenshot](Screenshot%20(230).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(252).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+
+
 
 
 
