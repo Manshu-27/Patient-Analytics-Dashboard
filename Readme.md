@@ -124,6 +124,28 @@ It is inspired by real-world hospital workflow challenges and aims to enhance pa
 * Develop a web-based application using Streamlit
 * Apply clustering techniques for patient flow optimization
 
+* [![Dashboard Preview](images/screenshot.png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+
+* ## 🚀 Full Preview (Click Any Image)
+
+[![Screenshot](Screenshot%20(186).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(189).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(190).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(191).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(192).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(194).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(195).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(201).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(202).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(209).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(213).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(217).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(224).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(226).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(228).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(229).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+[![Screenshot](Screenshot%20(230).png)](https://Manshu-27.github.io/Patient-Analytics-Dashboard/)
+
 
 
 
